@@ -40,7 +40,7 @@
 
 6.下载的结果在results文件夹中
 
-7.有问题的下载信息会记录在error_location_response.txt和error_xml_response.txt文件中，可以查看到具体是哪条数据没下载成功，可以与results中的结果进行比较进行确认，没下载成功的数据可以手动下载，也可以询问我原因
+7.有问题的下载信息会记录在error_location_response.txt和error_xml_response.txt文件中（没有这两个文件不用担心，说明没有任何问题），可以查看到具体是哪条数据没下载成功，可以与results中的结果进行比较进行确认，没下载成功的数据可以手动下载，也可以询问我原因
 
 
 
